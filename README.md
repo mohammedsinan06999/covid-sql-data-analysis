@@ -9,13 +9,13 @@ It demonstrates SQL fundamentals as well as intermediate analytical concepts usi
 
 The SQL script includes a wide range of queries covering:
 
-### ** Basic Data Analysis**
+###  Basic Data Analysis
 - Counting total records
 - Listing unique countries
 - Renaming tables
 - Viewing complete dataset
 
-### ** Arithmetic Operations**
+###  Arithmetic Operations
 - Calculating total cases + deaths
 - Case–death differences
 - Death rate calculations
@@ -23,29 +23,29 @@ The SQL script includes a wide range of queries covering:
 - Active cases calculation
 - Increasing deaths by 5% (growth factor)
 
-### ** Relational Operators**
+### Relational Operators
 - Filtering data using `>`, `<`, `>=`, `<=`, `=`
 - Extracting records by month, year, and population
 - Identifying anomalies (cases < deaths)
 
-### ** Logical Operators**
+###  Logical Operators
 - AND / OR conditions
 - Excluding records using NOT
 - Combined criteria for meaningful insights
 - Filtering by multiple months, years, or conditions
 
-### ** Sorting**
+###  Sorting
 - Ordering by cases (ASC/DESC)
 - Ordering by deaths
 
-### ** Special Operators**
+###  Special Operators
 - `BETWEEN` ranges
 - `IN` list filtering
 - Pattern matching using `LIKE`
 - Checking for NULL / NOT NULL
 - Population range queries
 
-### ** CASE Statements**
+### CASE Statements
 Classification-based insights, including:
 - Case severity (High / Medium / Low)
 - Death severity categories
